@@ -4,29 +4,23 @@ I'm a 26-year-old self-taught back end developer.
 
 I'm keen on working alongside developers that can teach me more about clean and maintainable code.
 
----
+
 
 ### Current projects
 
 > 🏋🏻‍♀️ [Training app](https://github.com/laubernal/training-app) - A web app that allows you to keep track of your gym weights.
 
-> 🗄 [Resources links](https://github.com/laubernal/training-app) - A web app where you can save the links to interesting resources you don't want to lose.
-
----
+> 🗄 [Resources links](https://github.com/laubernal/training-app) - A web app where you can save the links to interesting resources you don't want to lose.  
 
 ### My values
 
 🙌🏻 Teamwork & communication  
-💡 Enjoy learning
-
----
+💡 Enjoy learning  
 
 ### Hobbies
 
 🎧 Music listener  
-🏋🏻‍♀️ Gym lover
-
----
+🏋🏻‍♀️ Gym lover  
 
 ### Contact me
 
