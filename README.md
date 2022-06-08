@@ -26,4 +26,4 @@ I'm keen on working alongside developers that can teach me more about clean and 
 
 <!--- [Portfolio]()-->
 
-- [LinkedIn](https://www.linkedin.com/in/laura-bernal-rodr%C3%ADguez-141156239/)
+- <a href="https://www.linkedin.com/in/laura-bernal-rodr%C3%ADguez-141156239/" target="_blank">LinkedIn</a>
