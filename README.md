@@ -24,6 +24,6 @@ I'm keen on working alongside developers that can teach me more about clean and 
 
 ## Contact me
 
-<!--- [Portfolio]()-->
+- [Portfolio](https://laurabernal.netlify.app/)
 
 - [LinkedIn](https://www.linkedin.com/in/laura-bernal-rodr%C3%ADguez-141156239/)  
