@@ -1,6 +1,6 @@
 ## Hi there, I'm Laura 👋🏻
 
-I'm a 26-year-old self-taught back end developer.
+I'm a 27-year-old self-taught back end developer.
 
 I'm keen on working alongside developers that can teach me more about clean and maintainable code.
 
